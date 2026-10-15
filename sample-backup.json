@@ -1,0 +1,67 @@
+{
+  "sistema": "Agência Lucas Rodrigues CRM",
+  "versao": "1.0",
+  "dataExportacao": "2026-10-15T14:30:00.000Z",
+  "resumo": {
+    "totalLeads": 5,
+    "valorFaturado": 11700.0,
+    "convertidos": 2
+  },
+  "leads": [
+    {
+      "id": "lead_1",
+      "name": "Dr. Leonardo Vasconcelos",
+      "phone": "(11) 99876-5432",
+      "service": "Gestão de Tráfego Pago & Google Ads",
+      "status": "Lead convertido",
+      "value": 6500.0,
+      "notes": "Contrato fechado trimestral. Campanhas focadas em Direito Tributário e Empresarial.",
+      "createdAt": "2026-10-09T14:20:00.000Z",
+      "updatedAt": "2026-10-13T16:00:00.000Z"
+    },
+    {
+      "id": "lead_2",
+      "name": "Dra. Beatriz Meneses Advocacia",
+      "phone": "(21) 98765-4321",
+      "service": "Assessoria de Posicionamento e Redes Sociais",
+      "status": "Apresentação de proposta",
+      "value": 3800.0,
+      "notes": "Proposta enviada em PDF. Reunião de alinhamento com os sócios marcada para sexta-feira.",
+      "createdAt": "2026-10-12T11:00:00.000Z",
+      "updatedAt": "2026-10-14T09:30:00.000Z"
+    },
+    {
+      "id": "lead_3",
+      "name": "Dr. Marcelo Antunes & Associados",
+      "phone": "(31) 97654-3210",
+      "service": "Criação de Site Institucional & Landing Page",
+      "status": "Lead convertido",
+      "value": 5200.0,
+      "notes": "50% de entrada paga. Desenvolvimento da identidade e wireframe iniciado.",
+      "createdAt": "2026-10-07T10:15:00.000Z",
+      "updatedAt": "2026-10-12T15:45:00.000Z"
+    },
+    {
+      "id": "lead_4",
+      "name": "Dra. Mariana Costa",
+      "phone": "(41) 99123-4567",
+      "service": "Consultoria Estratégica de Captação Ética",
+      "status": "Em conversa",
+      "value": 0,
+      "notes": "Lead vindo de indicação. Interessada em expandir atuação em Direito de Família.",
+      "createdAt": "2026-10-14T17:00:00.000Z",
+      "updatedAt": "2026-10-14T17:00:00.000Z"
+    },
+    {
+      "id": "lead_5",
+      "name": "Escritório Alencar & Ramos",
+      "phone": "(85) 98834-1122",
+      "service": "Gestão de Tráfego Pago",
+      "status": "Lead perdido",
+      "value": 0,
+      "notes": "Optaram por reestruturar a equipe interna antes de contratar agência parceira.",
+      "createdAt": "2026-10-03T14:00:00.000Z",
+      "updatedAt": "2026-10-10T11:20:00.000Z"
+    }
+  ]
+}
